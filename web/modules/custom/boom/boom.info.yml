@@ -1,0 +1,5 @@
+name: boom
+description: 'This module provides for adding custom plugins to the site.'
+type: module
+core_version_requirement: ^9 || ^10
+package: Custom
