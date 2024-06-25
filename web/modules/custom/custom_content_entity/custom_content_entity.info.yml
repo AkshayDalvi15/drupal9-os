@@ -1,0 +1,5 @@
+name: 'custom_content_entity'
+type: module
+description: 'Demoonstrates how to create a content entity.'
+package: Custom
+core_version_requirement: ^10 || ^11

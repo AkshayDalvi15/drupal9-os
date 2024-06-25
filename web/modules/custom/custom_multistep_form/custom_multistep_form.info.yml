@@ -1,0 +1,5 @@
+name: custom_multistep_form
+description: 'This module is used to create multistep custom form.'
+type: module
+core_version_requirement: ^9 || ^10
+package: Custom
